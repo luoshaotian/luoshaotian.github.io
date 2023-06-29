@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>将zotero变成科研的好工具</title>
+      <link href="/posts/54313/"/>
+      <url>/posts/54313/</url>
+      
+        <content type="html"><![CDATA[<p>现在市面上有很多的文献管理工具，例如：zotero、endnote、Mendeley、Citavi（除了zotero笔者都没用过）。对于zotero这个软件，它最大的优势就是<strong>我喜欢用</strong>：），那么如何对他进行设置呢，这里本人认为难的地方会细讲，不难的地方一笔带过。</p><h1 id="下载zotero-和-zotero-connector"><a href="#下载zotero-和-zotero-connector" class="headerlink" title="下载zotero 和 zotero connector"></a>下载zotero 和 zotero connector</h1><p>这一步去官网下载它会摆出两个选项让你选，成年人选择两个都下。未成年两个都没必要下哈。</p><h1 id="注册zotero账号并登录"><a href="#注册zotero账号并登录" class="headerlink" title="注册zotero账号并登录"></a>注册zotero账号并登录</h1><p>进入软件之后按照Edit-Preference-sync,里面有一个选项让你登录，没有就跳到官网注册一下哈</p><h1 id=""><a href="#" class="headerlink" title=""></a></h1>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>javascript</title>
       <link href="/posts/19536/"/>
       <url>/posts/19536/</url>
@@ -21,7 +34,7 @@
       <link href="/posts/41754/"/>
       <url>/posts/41754/</url>
       
-        <content type="html"><![CDATA[<p>本文用于记录一些好用的网站，我怕以后忘了。QAQ</p><p>| 网站名字 |   作用   |<br>|   MDN    | 网络技术开发文档|</p>]]></content>
+        <content type="html"><![CDATA[<p>本文用于记录一些好用的东西，我怕以后忘了。QAQ</p><h1 id="网站名字：作用"><a href="#网站名字：作用" class="headerlink" title="网站名字：作用"></a>网站名字：作用</h1><p>MDN     网络技术开发文档<br>gnome-tweaks       配合gnome-look网站进行gnome桌面的美化</p>]]></content>
       
       
       
